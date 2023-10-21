@@ -59,9 +59,10 @@
             // 
             // TxtMensajeOriginal
             // 
+            this.TxtMensajeOriginal.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtMensajeOriginal.Location = new System.Drawing.Point(292, 107);
             this.TxtMensajeOriginal.Name = "TxtMensajeOriginal";
-            this.TxtMensajeOriginal.Size = new System.Drawing.Size(179, 22);
+            this.TxtMensajeOriginal.Size = new System.Drawing.Size(179, 30);
             this.TxtMensajeOriginal.TabIndex = 2;
             this.TxtMensajeOriginal.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -99,9 +100,10 @@
             // 
             // txtClave
             // 
+            this.txtClave.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtClave.Location = new System.Drawing.Point(292, 162);
             this.txtClave.Name = "txtClave";
-            this.txtClave.Size = new System.Drawing.Size(179, 22);
+            this.txtClave.Size = new System.Drawing.Size(179, 30);
             this.txtClave.TabIndex = 6;
             // 
             // Form1
